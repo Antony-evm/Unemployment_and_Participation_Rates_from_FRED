@@ -3,7 +3,7 @@
 
 ## Motivation
 
-This project is to delve into the world of performing basic EDA. It is beginner friendly & easy to follow, with reproducable examples and will help anyone getting started using python for data analysis. 
+This project is to delve into the world of performing basic EDA. It is beginner friendly & easy to follow, with reproducable examples that will help anyone getting started using python for data analysis. 
 
 ## What data are we handling?
 
